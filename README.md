@@ -7,5 +7,6 @@ A simple django user management system where User can:
 after successfuly login
 
 # Things to do 
-Add Password reset
+Add Password reset and
+
 workon UI
